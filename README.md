@@ -8,9 +8,9 @@ Not that this file is for the TL866 II Plus ONLY
 
 To udpate the programmer via minipro is pretty easy.
 
-> minipro -t
-(lists test information for the programmer, and the current firmware version)
-> minipro -F <name of update file>
-(shows programming status)
+     > minipro -t
+       (lists test information for the programmer, and the current firmware version)
+     > minipro -F <name of update file>
+       (shows programming status)
 
 You're done.
