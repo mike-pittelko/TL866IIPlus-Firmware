@@ -1,5 +1,5 @@
 # TL866IIPlus-Firmware
-Copy of TL866 II Plus firmware from xgecu
+Copy of TL866 II Plus firmware from xgecu for use with linux/osx.  Does not include windows tools, etc.
 
 This was very slow to download from xgecu.  If you are not using their software (for example, minipro on a mac or linux) you will likely need this file to update your programmer. 
 
