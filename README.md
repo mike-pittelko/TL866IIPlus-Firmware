@@ -1,7 +1,10 @@
 # TL866IIPlus-Firmware
 Copy of TL866 II Plus firmware from xgecu for use with linux/osx.  Does not include windows tools, etc.
 
-This was very slow to download from xgecu.  If you are not using their software (for example, minipro on a mac or linux) you will likely need this file to update your programmer. 
+The  Minipro  TL866xx  series  of  chip  programmers  is  distributed  by  Autoelectric. Their website is
+       http://www.autoelectric.cn -> http://www.xgecu.com 
+
+The sw package was very slow to download from xgecu.  If you are not using their software (for example, minipro on a mac or linux) you will likely need this file to update your programmer. 
 
 You can always get the latest offical package from here: http://forums.xgecu.com/viewthread.php?tid=20&page=1&extra=#pid23
 
